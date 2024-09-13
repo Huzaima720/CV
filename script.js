@@ -8,10 +8,10 @@ const cv = {
     phone: "0332-4396444",
   },
   socialMedia: {
-    github: "https://github.com/abdulrehman",
-    linkedin: "https://linkedin.com/in/abdulrehman",
-    instagram: "https://instagram.com/abdulrehman",
-    twitter: "https://twitter.com/abdulrehman",
+    github: "https://github.com/Huzaima720/",
+    linkedin: "https://www.linkedin.com/in/huzaima-asghar-6a1420234/",
+    instagram: "https://www.instagram.com/huzaima_asghar",
+    
   },
   education: [
     {
@@ -54,7 +54,7 @@ const cv = {
       title: "Contact form",
       description:
         "A contact form with responsive design and basic validation.",
-      url: "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Screenshots/ghgxiqy2foifrixlbil2.jpg",
+      url: "https://huzaima720.github.io/contact-form-main/",
       ImageUrl:
         "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Screenshots/ghgxiqy2foifrixlbil2.jpg",
     },
