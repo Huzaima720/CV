@@ -45,9 +45,7 @@ const cv = {
     "CSS",
     "JavaScript",
     "React",
-    "Node.js",
-    "MongoDB",
-    "Express",
+    
   ],
   projects: [
     {
